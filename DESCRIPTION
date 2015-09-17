@@ -1,0 +1,11 @@
+Package: boxr
+Title: Interface to 'termbox'
+Version: 0.0.1
+Author: Rich FitzJohn
+Maintainer: Rich FitzJohn <rich.fitzjohn@gmail.com>
+Description: Interface to 'termbox'.
+License: MIT + file LICENSE
+LazyData: true
+URL: https://github.com/richfitz/boxr
+BugReports: https://github.com/richfitz/boxr/issues
+Suggests: testthat

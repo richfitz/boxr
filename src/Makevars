@@ -1,0 +1,8 @@
+# -*-makefile-*-
+# So, this is originally compiled with options:
+#   -std=gnu99
+#   -D_XOPEN_SOURCE
+# we compile:
+#   termbox.c -> o
+#   utf8.c -> o
+# and that's about it.  So this should be super simple.
