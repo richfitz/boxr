@@ -8,3 +8,4 @@
 ^boxr_.*\.tar\.gz$
 ^bootstrap\.R$
 ^src_orig$
+^ignore$

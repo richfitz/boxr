@@ -7,3 +7,5 @@ int r_to_int(SEXP r_x);
 
 struct tb_event r_to_tb_event(SEXP x);
 SEXP tb_event_to_r(int code, struct tb_event x);
+
+int check_length(int n, int max);
